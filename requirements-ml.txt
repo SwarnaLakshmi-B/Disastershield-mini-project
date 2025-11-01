@@ -1,0 +1,10 @@
+# Optional ML requirements (not required for running the Flask API)
+# Pick appropriate torch wheel for your OS/CUDA from https://pytorch.org/get-started/locally/
+# Example (CPU-only):
+# pip install torch torchvision
+
+torch
+torchvision
+pillow
+transformers
+datasets
